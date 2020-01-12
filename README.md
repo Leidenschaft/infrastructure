@@ -15,7 +15,7 @@ Using Ubuntu 18.04, we follow tradional web application model:
 [DetuschLernen](http://leidenschaft.cn/DeutschLernen/static/index.html)
 
 ### Volunteer teaching archive wordpress site
-[volunteer0](https://leidenschaft.cn/volunteer0)
+[volunteer0](http://leidenschaft.cn/volunteer0)
 
 ### xingyu backend api endpoint
 [xingyu](https://www.leidenschaft.cn/xingyu)
