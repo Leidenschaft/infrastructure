@@ -25,4 +25,4 @@ Code: https://github.com/Leidenschaft/Deutsch-Lernen
 Code: https://github.com/zhaofeng-shu33/xingyu
 
 ### Django Apps
-See [settings.py](https://github.com/zhaofeng-shu33/django_app/blob/master/mysite/settings.py)
+See https://github.com/zhaofeng-shu33/django_app
