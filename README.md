@@ -12,7 +12,7 @@ Using Ubuntu 18.04, we follow tradional web application model:
 ## Deployed App
 
 ### DetuschLernen Static files
-[DetuschLernen](http://leidenschaft.cn/DeutschLernen/static/index.html)
+[DetuschLernen](http://leidenschaft.cn/django/static/index.html)
 
 ### Volunteer teaching archive wordpress site
 [volunteer0](http://leidenschaft.cn/volunteer0)
